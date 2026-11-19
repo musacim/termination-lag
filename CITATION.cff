@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Termination Lag: Coding Agents Solve Early but Stop Late"
+authors:
+  - family-names: Cim
+    given-names: Musa
+  - family-names: Topcu
+    given-names: Burak
+  - family-names: Kandemir
+    given-names: Mahmut Taylan
+repository-code: "https://github.com/musacim/termination-lag"
+url: "https://arxiv.org/abs/2611.14960"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Termination Lag: Coding Agents Solve Early but Stop Late"
+  authors:
+    - family-names: Cim
+      given-names: Musa
+    - family-names: Topcu
+      given-names: Burak
+    - family-names: Kandemir
+      given-names: Mahmut Taylan
+  journal: "arXiv preprint arXiv:2611.14960"
+  year: 2026
+  url: "https://arxiv.org/abs/2611.14960"
+  doi: "10.48550/arXiv.2611.14960"
